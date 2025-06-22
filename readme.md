@@ -52,7 +52,7 @@ Github Repo Link : [clickhere](https://github.com/nagasaramvamsi12/flight-bookin
 
 - ***Remainder Service***
 It is used to send emails to user regarding their flight bookings 
-Github Repo Link : [clickhere]()
+Github Repo Link : [clickhere](https://github.com/nagasaramvamsi12/remainder-service)
 
 - ***API Gateway***  
 It is used to route the client requests to their respective microservices also have ratelimiting in the API Gateway.  
