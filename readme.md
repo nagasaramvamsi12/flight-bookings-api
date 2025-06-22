@@ -48,7 +48,7 @@ Github Repo Link : [clickhere](https://github.com/nagasaramvamsi12/flight-search
 
 - ***Booking Service***  
 It is used to Book the flights .  
-Github Repo Link : [clickhere]()
+Github Repo Link : [clickhere](https://github.com/nagasaramvamsi12/flight-bookings)
 
 - ***Remainder Service***
 It is used to send emails to user regarding their flight bookings 
