@@ -40,11 +40,11 @@ This is an API Design of the Flight Booking System which was designed using the 
 
 - ***Authentication service***   
 It is used to autheticate the user using the JWT tokens   
-Github Repo Link : [clickhere]()
+Github Repo Link : [clickhere](https://github.com/nagasaramvamsi12/auth-service)
 
 - ***FlightsSearchService***   
 It is used to search the flights between two different cities   
-Github Repo Link : [clickhere](https://github.com/SHAIKASIFALI/FlightsandSearchService)  
+Github Repo Link : [clickhere](https://github.com/nagasaramvamsi12/flight-search-service)  
 
 - ***Booking Service***  
 It is used to Book the flights .  
